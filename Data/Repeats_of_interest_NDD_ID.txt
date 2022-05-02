@@ -1,0 +1,53 @@
+Gene	Region	Note
+ATXN7L2	UTR5	High expression in adult brain, ATXN7 -> Cerebellar ataxias
+KCND3	upstream	Autosomal dominant cerebellar ataxia SCA 19/22, high brain expression
+NBPF25P	ncRNA	Neuroblastoma breakpoint family (NBPF) consists of dozens of recently duplicated genes primarily located in segmental duplications. Implicated in a number of NDDs
+MANEAL	upstream	Wolf-Hirschhorn Syndrome, NDD
+SKIDA1	exonic	Paralogue SIMC1, Sotos Syndrome 1
+SPPL3	intronic	Frontometaphyseal Dysplasia
+KMT5A	intronic	Meier-Gorlin Syndrome 1
+AEBP2	exonic	Weaver Syndrome and Waardenburg's Syndrome
+ARID2   upstream    Coffin-Siris Syndrome 
+ARID2	UTR5	Coffin-Siris Syndrome
+CD163->APOBEC1	intergenic	(CD163) Rosai-Dorfman Disease, (APOBEC1) Neurofibromatosis
+DACH1	exonic	Colobomatous Microphthalmia and Periosteal Osteogenic Sarcoma
+BCL11B	intronic	Intellectual Developmental Disorder With Speech Delay, Dysmorphic Facies, And T-Cell Abnormalities
+XYLT1	upstream	Baratela-Scott Syndrome
+TNRC6A	upstream	Epilepsy, Familial Adult Myoclonic
+NATD1	upstream	Potocki-Lupski Syndrome
+UBTF	intronic	Neurodegeneration, Childhood-Onset, With Brain Atrophy and Rare Syndromic Intellectual Disability
+MED13	upstream	Intellectual Developmental Disorder, Autosomal Dominant 61 and Non-Specific Syndromic Intellectual Disability
+CHD3	exonic	Snijders Blok-Campeau Syndrome
+ASXL3	upstream	Bainbridge-Ropers Syndrome
+WIZ	UTR5	Johanson-Blizzard Syndrome and Autosomal Dominant Wolfram Syndrome
+NOVA2	UTR5	Neurodevelopmental Disorder With Or Without Autistic Features And/Or Structural Brain Abnormalities
+AFF3	intronic	Kinsship Syndrome, Autism
+POU3F3	UTR5	Snijders Blok-Fisher Syndrome 
+POU3F3	exonic	Snijders Blok-Fisher Syndrome 
+POU3F3	UTR3	Snijders Blok-Fisher Syndrome 
+RGPD3	intronic	Myoclonic Cerebellar Dyssynergia and Lacrimal Duct Obstruction
+RGPD4	intronic	Paralogue, RGPD3
+DNMT3A	UTR5	DNMT3A overgrowth syndrome
+RGPD2	intronic	Carnitine-Acylcarnitine Translocase Deficiency, Paralogue RGPD1
+RGPD1->RGPD2	intronic	(RGPD1) Myoclonic Cerebellar Dyssynergia, Paralogue RGPD2
+ADNP-AS1	ncRNA	Congenital Disorder Of Glycosylation, Type Ie
+RTN4R	upstream	Schizophrenia and Leukemia, Acute Lymphoblastic
+ANKRD17	upstream	Hand, Foot And Mouth Disease and Alacrima, Achalasia, And Mental Retardation Syndrome
+PURA	exonic	PURA syndrome
+SH3PXD2B	upstream	Frank-Ter Haar Syndrome and Borrone Di Rocco Crovato Syndrome
+ZSWIM6	exonic	Acromelic Frontonasal Dysostosis and Neurodevelopmental Disorder With Movement Abnormalities
+SEMA5A->SNHG18	upstream	(SEMA5A) Cri-Du-Chat Syndrome and Autism
+SOBP	UTR5	Mental Retardation, Anterior Maxillary Protrusion, And Strabismus and Deafness, Autosomal Recessive 62
+ARID1B	exonic	Coffin-Siris Syndrome 1 and Hypertrichosis
+CAMK2B	upstream	Mental Retardation, Autosomal Dominant 54 and Alacrima, Achalasia, And Mental Retardation Syndrome
+ZNF713	intronic	Autistic Spectrum Disorder
+CHD7	intronic	Charge Syndrome
+FMR1	UTR5	Fragile X Syndrome, FXTAS, FXPOI
+AFF2	UTR5	Intellectual Developmental Disorder, X-Linked 109 and Alacrima, Achalasia, And Mental Retardation Syndrome
+RPS6KA3	upstream	Coffin-Lowry Syndrome
+PTCHD1	upstream	Autism X-Linked 4 and Non-Syndromic X-Linked Intellectual Disability
+SHROOM4	intronic	Stocco Dos Santos X-Linked Mental Retardation Syndrome and Stocco Dos Santos Syndrome
+ZFHX3	exonic	Neurodevelopmental syndrome, Prostate Cancer and Atrial Fibrillation
+ZFHX3	intronic	Neurodevelopmental syndrome, Prostate Cancer and Atrial Fibrillation
+ZFHX3	UTR5	Neurodevelopmental syndrome, Prostate Cancer and Atrial Fibrillation
+ZFHX3	upstream	Neurodevelopmental syndrome, Prostate Cancer and Atrial Fibrillation

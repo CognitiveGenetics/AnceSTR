@@ -1,0 +1,64 @@
+#  MONOGENIC
+"A04444" # Autosome Monogenic 
+"X13122" # X Son Monogenic
+"X03342" # X Daughter Monogenic
+
+# INFORMATIVE
+"A03342" # Homozygous proband, 1 deviating allele in father.
+"A03324" # Homozygous proband, 1 deviating allele in mother.
+"A12112" # Heterozygous proband, Allele 1 occours twice in father or both proband alleles occour in father.
+"A11212" # Heterozygous proband, Allele 2 occours twice in father or both proband alleles occour in father.
+"A12121" # Heterozygous proband, Allele 1 occours twice in mother or both proband alleles occour in mother.
+"A11221" # Heterozygous proband, Allele 2 occours twice in mother or both proband alleles occour in mother.
+"A11111" # Heterozygous proband, All members heterozygous, one allele in each parent
+"A13122" # Heterozygous proband, Mother and father monogenic except for 1 allele. Allele 1 occours thrice, Allele 2 occours once
+"A11322" # Heterozygous proband, Mother and father monogenic except for 1 allele. Allele 2 occours thrice, Allele 1 occours once
+"A12222" # Heterozygous proband, Same heterozygous genotype for all members or mother and father homozyogous with different genotypes
+"A02222" # Homozygous proband, Both parents heterozygous, transferred same allele
+"X12121" # X Heterozygous proband Informative
+"X12112" # X Son, Allele present in mother
+"X11111" # X Son, Allele present in mother
+"X02222" # X Homozygous Daughter, Alleles present in heterozygous mother and father
+"X11221" # X Heterozygous Daughter, Alleles present in heterozygous mother and father
+
+# DEVIATING
+"A10422" # Heterozygous proband, Allele 1 not present in parents, parents monogenic
+"A14022" # Heterozygous proband, Allele 2 not present in parents, parents monogenic
+"A13021" # Heterozygous proband, Allele 2 not present in parents, Mother homozygous and father heterozygous
+"A13012" # Heterozygous proband, Allele 2 not present in parents, Mother heterozygous and father homozygous
+"A10321" # Heterozygous proband, Allele 1 not present, Mother homozygous and father heterozygous
+"A10312" # Heterozygous proband, Allele 1 not present, Mother heterozygous and father homozygous
+"A12011" # Heterozygous proband, Allele 2 not present, Both parents heterozygous, one allele shared
+"A10101" # Heterozygous proband, Allele 1 not present, Allele 2 in heterozygous father
+"A12002" # Heterozygous proband, Allele 2 not present, Allele 1 in homozygous father
+"A11010" # Heterozygous proband, Allele 1 present in mother, Allele 2 absent in father
+"A11001" # Heterozygous proband, Allele 1 present in father, Allele 2 absent in mother
+"A12020" # Heterozygous proband, Allele 1 present in homozygous mother, Allele 2 absent in father
+"A10202" # Heterozygous proband, Allele 2 present in homozygous father, Allele 2 absent in mother
+"A10220" # Heterozygous proband, Allele 2 present in homozygous mother, Allele 2 absent in father
+"A10211" # Heterozygous proband, Allele 2 present in both heterzygous mother and father, Allele 1 absent
+"A11120" # Heterozygous proband, both Alleles present in mother, both Alleles absent in father
+"A10110" # Heterozygous proband, Allele 2  present in mother, all other alleles different
+"A11102" # Heterozygous proband, Allele 2 present in father, all other alleles different
+"A10000" # Heterozygous proband, No allele present in parents
+"A01120" # Homozygous proband, Allele 1 present in mother, Allele 2 absent in father
+"A01102" # Homozygous proband, Allele 1 present in father, Allele 2 absent in mother
+"A02240" # Homozygous proband, homozygous mother same as proband, father different to proband
+"A02204" # Homozygous proband, homozygous father same as proband, mother different to proband
+"A00000" # Homozygous proband, homozygous father same as proband, mother different to proband
+"X13021" # X heterozygous daughter Allele 1 present in mother, Allele 2 absent in father
+"X10101" # X Son, Allele not present in parents
+"X10321" # X heterozygous daughter, Allele 2 present in both parents, Allele 1 absent
+"X12011" # X heterozygous daughter, Allele 1 present in both parents, Allele 2 absent
+"X01120" # X homozygous daughter, Allele 1 present in Mother, Allele 2 absent in father
+"X11010" # X heterozygous daughter, Allele 1 present in Mother, Allele 2 absent in father
+"X10000" # X heterozygous daughter, Both alleles absent
+"X11001" # X heterozygous daughter, Allele 1 present in father, Allele 2 absent in mother
+"X10110" # X heterozygous daughter, Allele 2 present in Mother, Allele 1 absent in father
+"X10211" # X heterozygous daughter, Allele 2 present in both parents, Allele 1 absent
+"X00000" # X homozygous daughter, both alleles absent
+"X12020" # X heterozygous daughter, both alleles absent
+"X02240" # X homozygous daughter, Mother same genotype, Allele 2 absent              
+"X11102" # X son, allele absent from mother
+"X01102" # X homozygous daughter, Allele 1 present in father, Allele 2 absent in mother
+"X10220" # X heterozygous daughter, Allele 2 in homozygous mother, allele 1 absent in father

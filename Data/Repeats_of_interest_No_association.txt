@@ -1,0 +1,31 @@
+Gene	Region	Note 
+ASH1L-AS1	ncRNA
+LINC01704->CD1D	intergenic
+NONE->LOC441666	intergenic
+LINC00403	ncRNA
+ZNF267->LOC102723753	intergenic
+ENPP7P13	ncRNA
+HOXB3	exonic	Paralogue
+SAMD1	exonic	Paralogue
+SAMD1	UTR5	Paralogue
+LOC284412->HKR1	intergenic
+ZNF865	exonic
+LOC105373553	upstream
+MIR4436A->LOC654342	intergenic
+GGT8P->ACTR3BP2	intergenic
+ACTR3BP2->NONE	intergenic
+MMP24	upstream
+CNOT6L	upstream
+ZBTB2	upstream
+LOC101929243	ncRNA
+TTYH3	upstream
+C8orf88	UTR5
+BMS1P14	upstream
+FOXD4L4->LOC101928381	intergenic
+LOC101928381->LOC101929583	intergenic
+LOC101928195->LOC101928381	intergenic
+LOC101928381->FOXD4L5	intergenic
+FOXD4L5->LOC101928381	intergenic
+LOC101928381->FOXD4L4	intergenic
+
+

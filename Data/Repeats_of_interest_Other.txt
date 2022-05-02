@@ -1,0 +1,35 @@
+Gene	Region	Note
+LOR	exonic	Vohwinkel's syndrome and progressive symmetric erythrokeratoderma
+FAM20B	UTR5	Dental Pulp Calcification and Desbuquois Dysplasia
+EIF4G3	UTR5	Mouth disease?
+RRAGC	exonic	Familial Renal Oncocytoma and Birt-Hogg-Dube Syndrome, Cancer
+PRKACB	UTR5	Cardioacrofacial Dysplasia 2 and Primary Pigmented Nodular Adrenocortical Disease
+VEGFB	UTR5	Macular Degeneration
+MBD6	upstream	Wilson's Disease and Luminal Breast Carcinoma A
+FAM155A	upstream	Diverticulitis
+NONE->GOLGA8B	intergenic	(GOLGA8B) Smith-Mccort Dysplasia 1
+NEDD4->RFX7	intergenic	(NEDD4) Liddle Syndrome 1 and Pseudohypoaldosteronism, (RFX7) Deafness, Autosomal Dominant 27 and Fanconi Anemia
+SLCO3A1	UTR5	Intestinal Perforation and Primary Hypertrophic Osteoarthropathy
+NFATC3	UTR5	Crouzon Syndrome With Acanthosis Nigricans
+NLK	upstream	Diamond-Blackfan Anemia
+ZBTB4	intronic	Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome
+SKOR2	exonic	Acute Laryngitis
+ZNF532	intronic	Nut Midline Carcinoma
+CARM1	UTR5	Spinal Muscular Atrophy and Otopalatodigital Syndrome, Type I
+ZNF146->LOC100134317	intergenic	(ZNF146)  Verrucous Papilloma
+SOWAHC->RGPD5	intergenic	Retinitis Pigmentosa 7
+RGPD5->RGPD6	intronic	Paralogue, RGPD5
+FMNL2	exonic	Crohn's Disease and Inflammatory Bowel Disease 1
+MGAT4A	intronic	Choriocarcinoma and Congenital Disorder Of Glycosylation, Type Iia
+ZNRF3	exonic	Adrenal Carcinoma and Skin Carcinoma
+KIAA0930	upstream	Diffuse Pulmonary Fibrosis
+SEL1L3	UTR5	Paralogue SEL1L Granular Corneal Dystrophy and Type 1 Diabetes Mellitus 11
+ANKS1A	exonic	Autotopagnosia and Benign Secondary Hypertension
+MNX1	exonic	Currarino Syndrome and Meningocele
+HRAT92->PDGFA	upstream	Denys-Drash Syndrome and Ureteral Obstruction
+ZNF618	upstream	Nut Midline Carcinoma
+PBX3	UTR5	Myoepithelioma and Bone Epithelioid Hemangioma
+LMX1B	upstream	Nail-patella syndrome
+UBAP2	intronic	Paralogue UBAP2L
+RNF38->MELK	intergenic	(RNF38)  Colon Mucinous Adenocarcinoma, (MELK) Colorectal Cancer and Ovarian Cancer
+TTC3P1->MAGEE2	intergenic	(MAGEE2) Melanoma
